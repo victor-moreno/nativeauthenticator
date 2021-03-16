@@ -1,4 +1,8 @@
 
+#### 2021-03-16
+
+* VM: changed template native-login.html to show login with github and google
+
 ### [0.0.7] - 2021-01-14
 
 #### Merged PRs
